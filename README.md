@@ -33,3 +33,5 @@ This repository contains a series of Jupyter notebooks for practical assignments
      - Introduction to Latent Semantic Analysis (LSA).
      - Singular Value Decomposition (SVD) and its application in LSA.
      - Practical examples and applications of LSA.
+---
+This repository contains the practical assignments for this course in the Spring 2024 semester.
